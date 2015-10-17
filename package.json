@@ -1,0 +1,27 @@
+{
+    "name": "autoexec",
+    "version": "0.9.0",
+    "description": "Autoexec, not .bat",
+    "bin": {
+        "autoexec": "./src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yuuji/autoexec.git"
+    },
+    "keywords": [
+        "autoexec"
+    ],
+    "author": "Mia Sophie Möller <m.moeller@bytevision.net>",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/yuuji/autoexec/issues"
+    },
+    "homepage": "https://github.com/yuuji/autoexec#readme",
+    "dependencies": {
+        "nomnom": "",
+        "chokidar": "",
+        "anymatch": "",
+        "node-notifier": ""
+    }
+}
