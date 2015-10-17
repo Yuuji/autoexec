@@ -1,4 +1,5 @@
 # Autoexec(.bat)
+![Autoexec](https://cloud.githubusercontent.com/assets/195258/10561012/13a3fe80-751d-11e5-86bf-dec9271ead77.png)
 
 No, of course not autoexec.bat, but a small app, that helps you, as developer, to automatically execute commands on file change.
 
