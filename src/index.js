@@ -23,7 +23,7 @@ var options = require('nomnom')
             flag: true,
             help: 'print version and exit',
             callback: function() {
-                var package = require('./package.json');
+                var package = require('../package.json');
                 return package.name + 'version ' + package.version;
             }
         })
