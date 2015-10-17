@@ -1,6 +1,6 @@
 {
     "name": "autoexec",
-    "version": "0.9.1",
+    "version": "1.0.0",
     "description": "Autoexec, not .bat",
     "bin": {
         "autoexec": "./src/index.js"
